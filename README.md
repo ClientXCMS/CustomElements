@@ -1,6 +1,7 @@
 
 ### CLIENTXCMS
-![Logo](https://clientx.fr/assets/images/ClientXDark.png "ClientXCMS")
+![Logo](https://clientx.fr/assets/images/ClientXLight.png "ClientXCMS")
+
 [![Chat](https://img.shields.io/discord/620000044191449108?color=7289da&label=Discord&logo=discord&logoColor=fff&style=flat-square)](https://clientxcms.com/discord)
 
 
